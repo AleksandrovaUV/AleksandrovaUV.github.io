@@ -5,12 +5,38 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Прошедшая неделя</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5/</guid>
+      <description>&lt;h2 id=&#34;цели&#34;&gt;Цели&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Выполнить лабораторную работу по ОС;&lt;/li&gt;
+&lt;li&gt;Подготовиться к коллоквиуму;&lt;/li&gt;
+&lt;li&gt;Выполнить лабораторную работу по алгебре.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;Я успешно сдала лабораторные работы и коллоквиум по аналитической геометрии.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%D0%B8/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8%D0%B8/</guid>
+      <description>&lt;h2 id=&#34;цели&#34;&gt;Цели&lt;/h2&gt;
+&lt;p&gt;Создание!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по прошедшей неделе</title>
@@ -49,9 +75,9 @@ Git — система управления версиями с распреде
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -151,7 +177,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-258436971&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-914278563&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -161,7 +187,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-258436971&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-914278563&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
