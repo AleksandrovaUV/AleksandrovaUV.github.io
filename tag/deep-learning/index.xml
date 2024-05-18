@@ -5,7 +5,7 @@
     <link>https://example.com/tag/deep-learning/</link>
       <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
@@ -13,15 +13,1549 @@
     </image>
     
     <item>
-      <title>Example Project</title>
+      <title>Курс &#34;Основы кибербезопасности&#34;</title>
       <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;как-работает-интернет-базовые-сетевые-протоколы&#34;&gt;Как работает интернет: базовые сетевые протоколы&lt;/h2&gt;
+&lt;p&gt;HTTPS - протокол прикладного уровня.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.1&#34; srcset=&#34;
+               /project/example/image/1_huc527e9db8a4eddfe547115ea77a1d188_28958_402241baa68d2bceb6381681837fe43a.webp 400w,
+               /project/example/image/1_huc527e9db8a4eddfe547115ea77a1d188_28958_8ed1ef2d49ddfb98bf29f06449aa5d08.webp 760w,
+               /project/example/image/1_huc527e9db8a4eddfe547115ea77a1d188_28958_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/1_huc527e9db8a4eddfe547115ea77a1d188_28958_402241baa68d2bceb6381681837fe43a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;249&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Transmission control protocol работает на транспортном уровне&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.2&#34; srcset=&#34;
+               /project/example/image/2_hua92b125a2668236de7396b94ff5eb676_32752_af12a02e3d0706e8d17a1d30a063731c.webp 400w,
+               /project/example/image/2_hua92b125a2668236de7396b94ff5eb676_32752_f9235b443567959a7d437f9b2a40dd9b.webp 760w,
+               /project/example/image/2_hua92b125a2668236de7396b94ff5eb676_32752_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/2_hua92b125a2668236de7396b94ff5eb676_32752_af12a02e3d0706e8d17a1d30a063731c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;249&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В адресе типа IPv4 не может быть чисел больше 255.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.3&#34; srcset=&#34;
+               /project/example/image/3_hub6dc353c65acd632e8ebaf161e1629a8_47343_3cccec3f6753d84ab2b890c09652a5be.webp 400w,
+               /project/example/image/3_hub6dc353c65acd632e8ebaf161e1629a8_47343_1578eee18d63edbf0790ece967b4ef23.webp 760w,
+               /project/example/image/3_hub6dc353c65acd632e8ebaf161e1629a8_47343_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/3_hub6dc353c65acd632e8ebaf161e1629a8_47343_3cccec3f6753d84ab2b890c09652a5be.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;287&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;DNS-сервер.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.4&#34; srcset=&#34;
+               /project/example/image/4_hu5399d4285f0efcbe0a50776aaf067290_42781_fe4dfe02e1631732af2fd5a11c04a78e.webp 400w,
+               /project/example/image/4_hu5399d4285f0efcbe0a50776aaf067290_42781_be0ad452cabca05aae38c7c39d49ca49.webp 760w,
+               /project/example/image/4_hu5399d4285f0efcbe0a50776aaf067290_42781_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/4_hu5399d4285f0efcbe0a50776aaf067290_42781_fe4dfe02e1631732af2fd5a11c04a78e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;283&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Распределение протоколов в модели TCP/IP:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Прикладной уровень: HTTP, RTSP, FTP, DNS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Транспортный уровень: TCP, UDP, SCTP, DCCP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сетевой (Межсетевой) уровень: IP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Уровень сетевого доступа (Канальный): Ethernet, IEEE 802.11, WLAN, SLIP, Token Ring, ATM и MPLS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.5&#34; srcset=&#34;
+               /project/example/image/5_hu510ebda4683a86b46a68f89afe3369c3_42196_762a9c6dffdc6dc0c15b17fa61fa73e0.webp 400w,
+               /project/example/image/5_hu510ebda4683a86b46a68f89afe3369c3_42196_0f9570e997edac513559005f25f33f92.webp 760w,
+               /project/example/image/5_hu510ebda4683a86b46a68f89afe3369c3_42196_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/5_hu510ebda4683a86b46a68f89afe3369c3_42196_762a9c6dffdc6dc0c15b17fa61fa73e0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;265&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Протокол http передает не зашифрованные данные (а https передает уже зашифрованные).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.6&#34; srcset=&#34;
+               /project/example/image/6_hu1e14df0e1430ddb6d2e4312c04d7e7e9_36011_fbc1c5c186db7a512a741f13b8172aac.webp 400w,
+               /project/example/image/6_hu1e14df0e1430ddb6d2e4312c04d7e7e9_36011_7ba1da2b4e575a0a203a0dbded6a3cf4.webp 760w,
+               /project/example/image/6_hu1e14df0e1430ddb6d2e4312c04d7e7e9_36011_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/6_hu1e14df0e1430ddb6d2e4312c04d7e7e9_36011_fbc1c5c186db7a512a741f13b8172aac.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;230&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Https передает зашифрованные данные, поэтому одна из фаз - передача данных, другая должна быть рукопожатием.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.7&#34; srcset=&#34;
+               /project/example/image/7_huad7e5a3aa9e7e2dc340c6f4907484f26_36725_619b3f7ab967f15fb8b00de1354c3b61.webp 400w,
+               /project/example/image/7_huad7e5a3aa9e7e2dc340c6f4907484f26_36725_f9603fda0eed40049e4ca45fb60d2ef0.webp 760w,
+               /project/example/image/7_huad7e5a3aa9e7e2dc340c6f4907484f26_36725_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/7_huad7e5a3aa9e7e2dc340c6f4907484f26_36725_619b3f7ab967f15fb8b00de1354c3b61.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;274&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;TLS определяется как клиентом, так и сервером.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.8&#34; srcset=&#34;
+               /project/example/image/8_hu700f997a72248044b591d7acda9a29fd_43144_ee0beddbf4836204e340edf7fbb2ad28.webp 400w,
+               /project/example/image/8_hu700f997a72248044b591d7acda9a29fd_43144_e0273368f92bb0f2cac5dab8a78d22eb.webp 760w,
+               /project/example/image/8_hu700f997a72248044b591d7acda9a29fd_43144_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/8_hu700f997a72248044b591d7acda9a29fd_43144_ee0beddbf4836204e340edf7fbb2ad28.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;272&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Шифрование данных.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.9&#34; srcset=&#34;
+               /project/example/image/9_huc07a3e54936583bb89d7c11defa352ea_48372_20611797f71a9071b07b030dcb321e18.webp 400w,
+               /project/example/image/9_huc07a3e54936583bb89d7c11defa352ea_48372_8e831ea595e086e91d7bd785e24177c4.webp 760w,
+               /project/example/image/9_huc07a3e54936583bb89d7c11defa352ea_48372_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/9_huc07a3e54936583bb89d7c11defa352ea_48372_20611797f71a9071b07b030dcb321e18.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;272&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;персонализация-сети&#34;&gt;Персонализация сети&lt;/h2&gt;
+&lt;p&gt;Куки хранят ID ceccии и идентификатор.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.2.1&#34; srcset=&#34;
+               /project/example/image/10_hu65a7e8ec7aaf8138e44ecd96e1ce6089_49260_982348d5fe963acd89299c96141f74cc.webp 400w,
+               /project/example/image/10_hu65a7e8ec7aaf8138e44ecd96e1ce6089_49260_348830aac2c77bdc96316a0abe2da805.webp 760w,
+               /project/example/image/10_hu65a7e8ec7aaf8138e44ecd96e1ce6089_49260_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/10_hu65a7e8ec7aaf8138e44ecd96e1ce6089_49260_982348d5fe963acd89299c96141f74cc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;317&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Куки не делают соединение более надежным, даже наоборот.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.2.2&#34; srcset=&#34;
+               /project/example/image/11_hu4e6c288ee2d3eb24a5d6083080009ed7_44903_87f1920b8b78fa5f50ce702695033506.webp 400w,
+               /project/example/image/11_hu4e6c288ee2d3eb24a5d6083080009ed7_44903_f9fcb469cf8fa5656221081931a600e1.webp 760w,
+               /project/example/image/11_hu4e6c288ee2d3eb24a5d6083080009ed7_44903_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/11_hu4e6c288ee2d3eb24a5d6083080009ed7_44903_87f1920b8b78fa5f50ce702695033506.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;296&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Куки генерируются сервером.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.2.3&#34; srcset=&#34;
+               /project/example/image/12_hu1d587786c69c27863e25a6ad6f9e8c82_27181_328e5182855745c4d97c230a6a72148a.webp 400w,
+               /project/example/image/12_hu1d587786c69c27863e25a6ad6f9e8c82_27181_8da07e89dde1948d21b11b861a8e2b97.webp 760w,
+               /project/example/image/12_hu1d587786c69c27863e25a6ad6f9e8c82_27181_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/12_hu1d587786c69c27863e25a6ad6f9e8c82_27181_328e5182855745c4d97c230a6a72148a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;247&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Сессионные куки хранятся лишь в течение сессии&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.2.4&#34; srcset=&#34;
+               /project/example/image/13_hub3f3097fdbc84b242d5ed23de053fd1f_34671_bdb30cf6de75c1e7deea97a0cb82a979.webp 400w,
+               /project/example/image/13_hub3f3097fdbc84b242d5ed23de053fd1f_34671_f16289e01264ba4ed87bc752d54cc96d.webp 760w,
+               /project/example/image/13_hub3f3097fdbc84b242d5ed23de053fd1f_34671_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/13_hub3f3097fdbc84b242d5ed23de053fd1f_34671_bdb30cf6de75c1e7deea97a0cb82a979.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;254&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;браузер-tor&#34;&gt;Браузер TOR&lt;/h2&gt;
+&lt;p&gt;Необходимо три узла: входной, промежуточный и выходной.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.3.1&#34; srcset=&#34;
+               /project/example/image/14_hu7be5c51c88dba8034e8792c2b29476a9_27266_f67464761aab41a1473938bbf6c95aa7.webp 400w,
+               /project/example/image/14_hu7be5c51c88dba8034e8792c2b29476a9_27266_b23cbaf03dc9256cff08ab7956801715.webp 760w,
+               /project/example/image/14_hu7be5c51c88dba8034e8792c2b29476a9_27266_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/14_hu7be5c51c88dba8034e8792c2b29476a9_27266_f67464761aab41a1473938bbf6c95aa7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;258&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;IP-адрес не должен быть известен охранному и промежуточному узлам.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.3.2&#34; srcset=&#34;
+               /project/example/image/15_hu4b8b57cfaa86d5ac92376ee8768c5df5_48987_3f3a8b82b65d82387acac7489bfafc8b.webp 400w,
+               /project/example/image/15_hu4b8b57cfaa86d5ac92376ee8768c5df5_48987_8eb3e99d997bc0209793c7ae6494dfca.webp 760w,
+               /project/example/image/15_hu4b8b57cfaa86d5ac92376ee8768c5df5_48987_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/15_hu4b8b57cfaa86d5ac92376ee8768c5df5_48987_3f3a8b82b65d82387acac7489bfafc8b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;314&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Отправитель генерирует общий секретный ключ с узлами, через которые идет передача, то есть со всеми.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.3.3&#34; srcset=&#34;
+               /project/example/image/16_hu659cffb617a4f70d2d0980c88af30d30_42786_7030026fa3c1e3e175a5b0aef4e6996b.webp 400w,
+               /project/example/image/16_hu659cffb617a4f70d2d0980c88af30d30_42786_7992ca81ae880373ea0180efd81485c1.webp 760w,
+               /project/example/image/16_hu659cffb617a4f70d2d0980c88af30d30_42786_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/16_hu659cffb617a4f70d2d0980c88af30d30_42786_7030026fa3c1e3e175a5b0aef4e6996b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;270&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для получения пакетов не обязательно использовать TOR.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.3.4&#34; srcset=&#34;
+               /project/example/image/17_hu838a0c511ba59eb22132c320a357c6da_26100_f623f5d6f3db14503b1a0f3f6f5bf097.webp 400w,
+               /project/example/image/17_hu838a0c511ba59eb22132c320a357c6da_26100_15f7df8297cfa57962c7082de7d6cd48.webp 760w,
+               /project/example/image/17_hu838a0c511ba59eb22132c320a357c6da_26100_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/17_hu838a0c511ba59eb22132c320a357c6da_26100_f623f5d6f3db14503b1a0f3f6f5bf097.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;244&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;беспроводные-сети-wi-fi&#34;&gt;Беспроводные сети Wi-fi&lt;/h2&gt;
+&lt;p&gt;Wi-Fi.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.1&#34; srcset=&#34;
+               /project/example/image/18_hu5ba2d0d627f4ca5c5cf8a72acf660d19_47810_53da1e205cb64db998cb9229dc573523.webp 400w,
+               /project/example/image/18_hu5ba2d0d627f4ca5c5cf8a72acf660d19_47810_3ed35151dd973946b1f341bc420a71e1.webp 760w,
+               /project/example/image/18_hu5ba2d0d627f4ca5c5cf8a72acf660d19_47810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/18_hu5ba2d0d627f4ca5c5cf8a72acf660d19_47810_53da1e205cb64db998cb9229dc573523.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;294&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Wi-Fi располагается как канальный уровень ниже интернет-уровня интернет-протокола.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.2&#34; srcset=&#34;
+               /project/example/image/19_hu7c16d9672e7f4e0ae5f7723c02b83560_32841_921fefce72469a4ff898def2736b63ad.webp 400w,
+               /project/example/image/19_hu7c16d9672e7f4e0ae5f7723c02b83560_32841_706fb96816a8a0dd3825031d41371d3b.webp 760w,
+               /project/example/image/19_hu7c16d9672e7f4e0ae5f7723c02b83560_32841_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/19_hu7c16d9672e7f4e0ae5f7723c02b83560_32841_921fefce72469a4ff898def2736b63ad.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;271&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;WEP (Wired Equivalent Privacy) – устаревший и небезопасный метод проверки подлинности.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.3&#34; srcset=&#34;
+               /project/example/image/20_huacbab67f676904f14c9bf2aaf8353efc_30218_e36c1659d62af9892d334cfbd695b831.webp 400w,
+               /project/example/image/20_huacbab67f676904f14c9bf2aaf8353efc_30218_3f4503c26c0cc050f407b880d834705c.webp 760w,
+               /project/example/image/20_huacbab67f676904f14c9bf2aaf8353efc_30218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/20_huacbab67f676904f14c9bf2aaf8353efc_30218_e36c1659d62af9892d334cfbd695b831.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;277&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Нужно аутентифицировать устройства, а потом передать зашифрованные данные.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.4&#34; srcset=&#34;
+               /project/example/image/21_hub9b03e3375d4a9149b43c77ee69c3b20_45731_a32da180008c5be68458b0a6307116db.webp 400w,
+               /project/example/image/21_hub9b03e3375d4a9149b43c77ee69c3b20_45731_911c79cb73c5da89dece384b936eeac9.webp 760w,
+               /project/example/image/21_hub9b03e3375d4a9149b43c77ee69c3b20_45731_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/21_hub9b03e3375d4a9149b43c77ee69c3b20_45731_a32da180008c5be68458b0a6307116db.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;273&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;WPA2 Personal для личного использования, а enterprise - для предпиятий.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.5&#34; srcset=&#34;
+               /project/example/image/22_huecb993658fcd013a761bc28b8ed1f5c8_31380_c1aed603e6f8092d240b0d1a1740cf78.webp 400w,
+               /project/example/image/22_huecb993658fcd013a761bc28b8ed1f5c8_31380_63b0af2a0c7a1ae7adfd38b35ed38c1c.webp 760w,
+               /project/example/image/22_huecb993658fcd013a761bc28b8ed1f5c8_31380_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image/22_huecb993658fcd013a761bc28b8ed1f5c8_31380_c1aed603e6f8092d240b0d1a1740cf78.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выполнение-блока-2-защита-пктелефона&#34;&gt;Выполнение блока 2: Защита ПК/Телефона&lt;/h1&gt;
+&lt;h2 id=&#34;шифрование-диска&#34;&gt;Шифрование диска&lt;/h2&gt;
+&lt;p&gt;Зашифровать загрузочный сектор диска можно.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.1.1&#34; srcset=&#34;
+               /project/example/image1/1_hufa34219af8df65b0defc60d2e488b72b_25145_40735ecd3f7df3a070287c262e48028e.webp 400w,
+               /project/example/image1/1_hufa34219af8df65b0defc60d2e488b72b_25145_abb8e35a885cb876e4216e775acea2cd.webp 760w,
+               /project/example/image1/1_hufa34219af8df65b0defc60d2e488b72b_25145_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/1_hufa34219af8df65b0defc60d2e488b72b_25145_40735ecd3f7df3a070287c262e48028e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;227&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Шифрование диска основано на симметричном шифровании.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.1.2&#34; srcset=&#34;
+               /project/example/image1/2_hu131ee9cfe19dd0b6a112154f0eb58373_34463_8685866ff1d75de2c55d042418dbb399.webp 400w,
+               /project/example/image1/2_hu131ee9cfe19dd0b6a112154f0eb58373_34463_63d016cf3772278d778989c16ed0839e.webp 760w,
+               /project/example/image1/2_hu131ee9cfe19dd0b6a112154f0eb58373_34463_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/2_hu131ee9cfe19dd0b6a112154f0eb58373_34463_8685866ff1d75de2c55d042418dbb399.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;256&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;С помощью этих пррограмм можно зашифровать жесткий диск.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.1.3&#34; srcset=&#34;
+               /project/example/image1/3_huf09bd396f7656016d66d8f93fc8f4c16_46092_bf6572ea498d6fa7b54f1ed459b0f7ac.webp 400w,
+               /project/example/image1/3_huf09bd396f7656016d66d8f93fc8f4c16_46092_dd4fd46ff8260ca4bfc3c507a0756e08.webp 760w,
+               /project/example/image1/3_huf09bd396f7656016d66d8f93fc8f4c16_46092_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/3_huf09bd396f7656016d66d8f93fc8f4c16_46092_bf6572ea498d6fa7b54f1ed459b0f7ac.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;313&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;пароли&#34;&gt;Пароли&lt;/h2&gt;
+&lt;p&gt;Стойкий пароль должен быть со специальными символами и достаточной длины.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.1&#34; srcset=&#34;
+               /project/example/image1/4_hu27a49e50395aaa6410a387f215fe8f6c_35311_243d854efe8943ef9e3e634b6b068b7d.webp 400w,
+               /project/example/image1/4_hu27a49e50395aaa6410a387f215fe8f6c_35311_9c5cdad22f51c281b2b0b0587b84135f.webp 760w,
+               /project/example/image1/4_hu27a49e50395aaa6410a387f215fe8f6c_35311_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/4_hu27a49e50395aaa6410a387f215fe8f6c_35311_243d854efe8943ef9e3e634b6b068b7d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;262&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Менеджер паролей - это самый безопасный вариант.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.2&#34; srcset=&#34;
+               /project/example/image1/5_hu35bdc9ce2cdb2df8a6cba06b07b9580d_40991_e619814ee949fc3d5fbdf5bd13d0b013.webp 400w,
+               /project/example/image1/5_hu35bdc9ce2cdb2df8a6cba06b07b9580d_40991_1e112439e18408e38b64a53c4cda5532.webp 760w,
+               /project/example/image1/5_hu35bdc9ce2cdb2df8a6cba06b07b9580d_40991_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/5_hu35bdc9ce2cdb2df8a6cba06b07b9580d_40991_e619814ee949fc3d5fbdf5bd13d0b013.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;290&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Капча нужна для проверки на то, что за экраном не бот.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.3&#34; srcset=&#34;
+               /project/example/image1/6_hu605936babc7c3219e9b018a4850958fe_44631_548fa13c431e9e04ac3f2404009dd770.webp 400w,
+               /project/example/image1/6_hu605936babc7c3219e9b018a4850958fe_44631_9bdbc1a3621a51e6c4883ebf7ff78854.webp 760w,
+               /project/example/image1/6_hu605936babc7c3219e9b018a4850958fe_44631_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/6_hu605936babc7c3219e9b018a4850958fe_44631_548fa13c431e9e04ac3f2404009dd770.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;283&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Опасно хранить пароли в открытом виде, для этого есть хэши.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.4&#34; srcset=&#34;
+               /project/example/image1/7_hu69a90424f90663b1c9c414704ec462a6_46209_2544ff8bd540e99576c1e2dd4b1d40da.webp 400w,
+               /project/example/image1/7_hu69a90424f90663b1c9c414704ec462a6_46209_396ddabd12b87b1997caeca2d9aba40a.webp 760w,
+               /project/example/image1/7_hu69a90424f90663b1c9c414704ec462a6_46209_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/7_hu69a90424f90663b1c9c414704ec462a6_46209_2544ff8bd540e99576c1e2dd4b1d40da.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;272&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Соль не может помочь для улучшения стойкости паролей к атаке перебором, если злоумышленник получил доступ к серверу.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.5&#34; srcset=&#34;
+               /project/example/image1/8_hu2bc01e237c534c41fc2068f430e2f7fe_26996_459276c5e12429beeb6e9c6a33111225.webp 400w,
+               /project/example/image1/8_hu2bc01e237c534c41fc2068f430e2f7fe_26996_948d14d94828212b9a391ed3c63014a7.webp 760w,
+               /project/example/image1/8_hu2bc01e237c534c41fc2068f430e2f7fe_26996_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/8_hu2bc01e237c534c41fc2068f430e2f7fe_26996_459276c5e12429beeb6e9c6a33111225.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;232&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Все приведенные меры верны.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;НВопрос 3.2.6&#34; srcset=&#34;
+               /project/example/image1/9_hube62b13d38e898ee07e38b50a49abf90_51755_35f56a897cbe5ea710650b69a33355b7.webp 400w,
+               /project/example/image1/9_hube62b13d38e898ee07e38b50a49abf90_51755_9f4f8b16ed656086caf422bd237b64a0.webp 760w,
+               /project/example/image1/9_hube62b13d38e898ee07e38b50a49abf90_51755_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/9_hube62b13d38e898ee07e38b50a49abf90_51755_35f56a897cbe5ea710650b69a33355b7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;329&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;фишинг&#34;&gt;Фишинг&lt;/h2&gt;
+&lt;p&gt;В фишинговых ссылках есть отличия.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.3.1&#34; srcset=&#34;
+               /project/example/image1/10_huc2374c533597425ec265cf95ca07e27a_71137_2a0d007e3ab15ae9a8464a1ad4fbfdf8.webp 400w,
+               /project/example/image1/10_huc2374c533597425ec265cf95ca07e27a_71137_05a6fc52d027e9e13fc91b6f011a5c79.webp 760w,
+               /project/example/image1/10_huc2374c533597425ec265cf95ca07e27a_71137_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/10_huc2374c533597425ec265cf95ca07e27a_71137_2a0d007e3ab15ae9a8464a1ad4fbfdf8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;320&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Да, может, если пользователя со знакомым адресом взломали.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.3.2&#34; srcset=&#34;
+               /project/example/image1/11_hue356db07905594508dfabbc4d47672e4_25335_1cda7c54eb054b65122098f78b82f9fb.webp 400w,
+               /project/example/image1/11_hue356db07905594508dfabbc4d47672e4_25335_2e838ab7297d2c3b5e3605b54db768fa.webp 760w,
+               /project/example/image1/11_hue356db07905594508dfabbc4d47672e4_25335_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/11_hue356db07905594508dfabbc4d47672e4_25335_1cda7c54eb054b65122098f78b82f9fb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;229&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;вирусы-примеры&#34;&gt;Вирусы. Примеры&lt;/h2&gt;
+&lt;p&gt;Email Спуфинг &amp;ndash; это.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.4.1&#34; srcset=&#34;
+               /project/example/image1/12_hue30c963c31844ce33f82aa2464d812c2_43586_1c8e9683b75dd4415ce49c366efd0472.webp 400w,
+               /project/example/image1/12_hue30c963c31844ce33f82aa2464d812c2_43586_ccc61c1565c16e3736c9bb0f1b53d83b.webp 760w,
+               /project/example/image1/12_hue30c963c31844ce33f82aa2464d812c2_43586_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/12_hue30c963c31844ce33f82aa2464d812c2_43586_1c8e9683b75dd4415ce49c366efd0472.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;314&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Троян маскируется под обычную программу.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.4.2&#34; srcset=&#34;
+               /project/example/image1/13_hua1df8d090ffd2ec06df10d1a6243dd63_45519_b490e711c7ba57a540c9cb3e4e678f3b.webp 400w,
+               /project/example/image1/13_hua1df8d090ffd2ec06df10d1a6243dd63_45519_2ef06a4af1cc95c40a69a727af7ddd09.webp 760w,
+               /project/example/image1/13_hua1df8d090ffd2ec06df10d1a6243dd63_45519_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/13_hua1df8d090ffd2ec06df10d1a6243dd63_45519_b490e711c7ba57a540c9cb3e4e678f3b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;326&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;безопасность-мессенджеров&#34;&gt;Безопасность мессенджеров&lt;/h2&gt;
+&lt;p&gt;При установке первого сообщения отправителем формируется ключ шифрования.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.5.1&#34; srcset=&#34;
+               /project/example/image1/14_hu37c952fdd56d255ee3596687ae196e09_49692_35b2b19c09c7f2276e3a50bd660c2b33.webp 400w,
+               /project/example/image1/14_hu37c952fdd56d255ee3596687ae196e09_49692_b0d9b64154dc3e27a277c76bc213def3.webp 760w,
+               /project/example/image1/14_hu37c952fdd56d255ee3596687ae196e09_49692_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/14_hu37c952fdd56d255ee3596687ae196e09_49692_35b2b19c09c7f2276e3a50bd660c2b33.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;321&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Суть сквозного шифрования состоит в том, что сообщения передаются по узлам связи в зашифрованном виде.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.5.2&#34; srcset=&#34;
+               /project/example/image1/15_hu8e05c30c4995c09f4aca100f3a6b77ac_57763_6d3f4734db10d95aa612e6fc60f8e8cf.webp 400w,
+               /project/example/image1/15_hu8e05c30c4995c09f4aca100f3a6b77ac_57763_68dd923b33bbbd761850a72baf7e3c53.webp 760w,
+               /project/example/image1/15_hu8e05c30c4995c09f4aca100f3a6b77ac_57763_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image1/15_hu8e05c30c4995c09f4aca100f3a6b77ac_57763_6d3f4734db10d95aa612e6fc60f8e8cf.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;327&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выполнение-блока-3-криптография-на-практике&#34;&gt;Выполнение блока 3: Криптография на практике&lt;/h1&gt;
+&lt;h2 id=&#34;введение-в-криптографию&#34;&gt;Введение в криптографию&lt;/h2&gt;
+&lt;p&gt;Определение ассмиетричного шифрования с двумя ключами.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.1&#34; srcset=&#34;
+               /project/example/image2/1_hu5e54a3c33c6d1a669a732c6d99a78b4f_51735_b70f65f4a28dfa8890ae314da37fb312.webp 400w,
+               /project/example/image2/1_hu5e54a3c33c6d1a669a732c6d99a78b4f_51735_36129da6513367ce089ed816f2811e9c.webp 760w,
+               /project/example/image2/1_hu5e54a3c33c6d1a669a732c6d99a78b4f_51735_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/1_hu5e54a3c33c6d1a669a732c6d99a78b4f_51735_b70f65f4a28dfa8890ae314da37fb312.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;325&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Условия криптографической хэш-функции.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.2&#34; srcset=&#34;
+               /project/example/image2/2_hue3037f287dca0149c3ad4d48129e42b5_60044_af8388291e9fa695030995cc650283e7.webp 400w,
+               /project/example/image2/2_hue3037f287dca0149c3ad4d48129e42b5_60044_7956caf9179e25e302736d189a205424.webp 760w,
+               /project/example/image2/2_hue3037f287dca0149c3ad4d48129e42b5_60044_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/2_hue3037f287dca0149c3ad4d48129e42b5_60044_af8388291e9fa695030995cc650283e7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;373&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Алгоритмы цифровой подписи.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.3&#34; srcset=&#34;
+               /project/example/image2/3_hu8152f8f966849b2af61104c484eafa6d_49941_f03806ff459ed38a6109f1d29e97f678.webp 400w,
+               /project/example/image2/3_hu8152f8f966849b2af61104c484eafa6d_49941_e41335fcfce2e433edfefb6ee1fb8387.webp 760w,
+               /project/example/image2/3_hu8152f8f966849b2af61104c484eafa6d_49941_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/3_hu8152f8f966849b2af61104c484eafa6d_49941_f03806ff459ed38a6109f1d29e97f678.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Аутентификация источника данных-это свойство, которое гарантирует, что сообщение не было изменено во время передачи.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.4&#34; srcset=&#34;
+               /project/example/image2/4_hu9fd2d9ebb11076e9ff8c8f5e757c6f67_34143_477c845b622e6ba204bf7e5eb3bc343e.webp 400w,
+               /project/example/image2/4_hu9fd2d9ebb11076e9ff8c8f5e757c6f67_34143_1e4362637154308ea62514b1696bb1dc.webp 760w,
+               /project/example/image2/4_hu9fd2d9ebb11076e9ff8c8f5e757c6f67_34143_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/4_hu9fd2d9ebb11076e9ff8c8f5e757c6f67_34143_477c845b622e6ba204bf7e5eb3bc343e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;294&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Обмен ключам Диффи-Хэллмана - это.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.5&#34; srcset=&#34;
+               /project/example/image2/5_hu27fae12e5948b3d4f3987f33e1f340ac_48368_0140519be877a5cc37c1ccb40b5b824e.webp 400w,
+               /project/example/image2/5_hu27fae12e5948b3d4f3987f33e1f340ac_48368_faef99222dd9ebc2cb424ed14693975b.webp 760w,
+               /project/example/image2/5_hu27fae12e5948b3d4f3987f33e1f340ac_48368_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/5_hu27fae12e5948b3d4f3987f33e1f340ac_48368_0140519be877a5cc37c1ccb40b5b824e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;цифровая-подпись&#34;&gt;Цифровая подпись&lt;/h2&gt;
+&lt;p&gt;Протокол ЭЦП относится к протоколам с публичным ключом.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.1&#34; srcset=&#34;
+               /project/example/image2/6_hu1b5cfa0209ffc4abb23358a1caafa4dc_38698_9476272cc086ef3d5dd49b449477b3dc.webp 400w,
+               /project/example/image2/6_hu1b5cfa0209ffc4abb23358a1caafa4dc_38698_988fc27f53f9ad7fb63518f7d78f0540.webp 760w,
+               /project/example/image2/6_hu1b5cfa0209ffc4abb23358a1caafa4dc_38698_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/6_hu1b5cfa0209ffc4abb23358a1caafa4dc_38698_9476272cc086ef3d5dd49b449477b3dc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;294&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Алгоритм верификации электронной цифровой подписи требует на вход подпись, открытый ключ и сообщение.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.2&#34; srcset=&#34;
+               /project/example/image2/7_hu89e551606df19b141b9cb6ad695fdcfa_44520_408e20052e4ea42579ab6fda143facd1.webp 400w,
+               /project/example/image2/7_hu89e551606df19b141b9cb6ad695fdcfa_44520_f6123da9f15fc4bdb9e9f632387f26c9.webp 760w,
+               /project/example/image2/7_hu89e551606df19b141b9cb6ad695fdcfa_44520_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/7_hu89e551606df19b141b9cb6ad695fdcfa_44520_408e20052e4ea42579ab6fda143facd1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;321&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Электронная подпись не обеспечивает обеспечивает конфиденциальность.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.3&#34; srcset=&#34;
+               /project/example/image2/8_hu32946e4fcfe27f14c523dad1ee963479_37858_f43b600eec6b62eb23aa94e6a7b4668b.webp 400w,
+               /project/example/image2/8_hu32946e4fcfe27f14c523dad1ee963479_37858_ab23188587bd0e0e1239c250ec92496b.webp 760w,
+               /project/example/image2/8_hu32946e4fcfe27f14c523dad1ee963479_37858_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/8_hu32946e4fcfe27f14c523dad1ee963479_37858_f43b600eec6b62eb23aa94e6a7b4668b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;334&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для отправки налоговой отчетности в ФНС используется усиленная квалифицированная электронная подпись.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.4&#34; srcset=&#34;
+               /project/example/image2/9_hu7da6a1b49dec987e1bbc4172da03ca8a_39924_2836f569316080fa7c3ad72e8029bc96.webp 400w,
+               /project/example/image2/9_hu7da6a1b49dec987e1bbc4172da03ca8a_39924_29f5dd438836bcb79d52a81f0c8455e1.webp 760w,
+               /project/example/image2/9_hu7da6a1b49dec987e1bbc4172da03ca8a_39924_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/9_hu7da6a1b49dec987e1bbc4172da03ca8a_39924_2836f569316080fa7c3ad72e8029bc96.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;312&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В удостоверяющем (сертификационном) центре можно получить квалифицированный сертификат ключа проверки электронной подписи.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.5&#34; srcset=&#34;
+               /project/example/image2/10_hubd3737784b1fc808c408cfde5ab8146f_50134_2ed38807411c21504148ec4d09b060d4.webp 400w,
+               /project/example/image2/10_hubd3737784b1fc808c408cfde5ab8146f_50134_95f91cd42502e99560177503fbe00449.webp 760w,
+               /project/example/image2/10_hubd3737784b1fc808c408cfde5ab8146f_50134_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/10_hubd3737784b1fc808c408cfde5ab8146f_50134_2ed38807411c21504148ec4d09b060d4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;335&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;электронные-платежи&#34;&gt;Электронные платежи&lt;/h2&gt;
+&lt;p&gt;MasterCard, МИР - платежные системы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.3.1&#34; srcset=&#34;
+               /project/example/image2/11_hu23e78372de6eb3a9778555e0fad818f2_53726_b0d2459eb986fee5051b683fcbecb08c.webp 400w,
+               /project/example/image2/11_hu23e78372de6eb3a9778555e0fad818f2_53726_99ea077bc9be43c3fa046578cc700e24.webp 760w,
+               /project/example/image2/11_hu23e78372de6eb3a9778555e0fad818f2_53726_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/11_hu23e78372de6eb3a9778555e0fad818f2_53726_b0d2459eb986fee5051b683fcbecb08c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Примеры многофакторной аутентификации.&lt;/p&gt;
+&lt;p&gt;![Вопрос 4.3.2](image2/12.png&lt;/p&gt;
+&lt;p&gt;При онлайн платежах используется многофакторная аутентификация.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.3.3&#34; srcset=&#34;
+               /project/example/image2/13_hufcc65027ccc13c842d839618f7dd5acd_54180_32f690f114221688e2624d3dd56d7a92.webp 400w,
+               /project/example/image2/13_hufcc65027ccc13c842d839618f7dd5acd_54180_151b276eb62695c5d04c654df42fe8b8.webp 760w,
+               /project/example/image2/13_hufcc65027ccc13c842d839618f7dd5acd_54180_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/13_hufcc65027ccc13c842d839618f7dd5acd_54180_32f690f114221688e2624d3dd56d7a92.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;блокчейн&#34;&gt;Блокчейн&lt;/h2&gt;
+&lt;p&gt;PoW (доказательство выполнения работы) — это алгоритм достижения консенсуса в блокчейне.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.4.1&#34; srcset=&#34;
+               /project/example/image2/14_hu044c36a0cfc789b03fe8db84fcecdbd8_40199_bc382f97d4ebe1ecfe9f6bd22911a7b9.webp 400w,
+               /project/example/image2/14_hu044c36a0cfc789b03fe8db84fcecdbd8_40199_9d18f0e751d578ef3a3977014b10a830.webp 760w,
+               /project/example/image2/14_hu044c36a0cfc789b03fe8db84fcecdbd8_40199_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/14_hu044c36a0cfc789b03fe8db84fcecdbd8_40199_bc382f97d4ebe1ecfe9f6bd22911a7b9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;342&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Консенсус блокчейна — это процедура, в ходе которой участники сети достигают согласия о текущем состоянии данных в сети.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.4.2&#34; srcset=&#34;
+               /project/example/image2/15_hu0a65c18edc5a35a98aecb3e154212e3f_48339_5c55573fffd594b7b0a27f350619c79c.webp 400w,
+               /project/example/image2/15_hu0a65c18edc5a35a98aecb3e154212e3f_48339_4eccfe7c226b5dd618c5dbbd2e8327e1.webp 760w,
+               /project/example/image2/15_hu0a65c18edc5a35a98aecb3e154212e3f_48339_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/15_hu0a65c18edc5a35a98aecb3e154212e3f_48339_5c55573fffd594b7b0a27f350619c79c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Цифровая подпись.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.4.3&#34; srcset=&#34;
+               /project/example/image2/16_hu190dc3e9d7ab2d9a9e89a000281a39f1_35596_bfa2ca0b4740ed66601714ca41f90a38.webp 400w,
+               /project/example/image2/16_hu190dc3e9d7ab2d9a9e89a000281a39f1_35596_78233d58d28768afb04b03ec4183a340.webp 760w,
+               /project/example/image2/16_hu190dc3e9d7ab2d9a9e89a000281a39f1_35596_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/example/image2/16_hu190dc3e9d7ab2d9a9e89a000281a39f1_35596_bfa2ca0b4740ed66601714ca41f90a38.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;334&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
